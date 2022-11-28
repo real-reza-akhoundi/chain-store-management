@@ -1,0 +1,15 @@
+.card-image{
+    /* height: 240px; */
+    border-radius: 50%;
+}
+.link{
+    text-decoration: none;
+    color: #888;
+
+}
+
+.link:hover{
+    text-decoration: none;
+    color: #000;
+    
+}
